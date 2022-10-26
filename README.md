@@ -147,4 +147,4 @@ Group by:
   - Join table on itself
   -No special syntax
   -Same table on left and right side of join
-  -Useful when table contains hierarchical  data
+  -Useful when table contains hierarchical  data 
