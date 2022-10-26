@@ -1,4 +1,5 @@
 # Oct25SqlHomeworkNotes
+```
 *SQL purpose:
   -To manipulate sets  of data 
   -Typically from a relational database
